@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react-native-first-app",
+    "slug": "react-native-first-app"
+  }
+}
